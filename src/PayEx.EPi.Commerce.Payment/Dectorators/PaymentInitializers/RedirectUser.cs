@@ -1,5 +1,5 @@
 ﻿using System.Web;
-using log4net;
+using EPiServer.Logging.Compatibility;
 using PayEx.EPi.Commerce.Payment.Contracts;
 using PayEx.EPi.Commerce.Payment.Models;
 using PayEx.EPi.Commerce.Payment.Models.PaymentMethods;

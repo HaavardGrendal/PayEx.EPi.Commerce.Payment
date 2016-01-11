@@ -1,5 +1,5 @@
 ﻿using System.Collections.Generic;
-using log4net;
+using EPiServer.Logging.Compatibility;
 using Mediachase.Commerce.Orders;
 using PayEx.EPi.Commerce.Payment.Contracts;
 using PayEx.EPi.Commerce.Payment.Models;

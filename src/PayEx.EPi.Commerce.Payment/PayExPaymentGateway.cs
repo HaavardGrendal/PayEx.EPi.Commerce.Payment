@@ -1,6 +1,6 @@
 ﻿using System.Web;
 using EPiServer.ServiceLocation;
-using log4net;
+using EPiServer.Logging.Compatibility;
 using Mediachase.Commerce.Orders;
 using Mediachase.Commerce.Plugins.Payment;
 using PayEx.EPi.Commerce.Payment.Contracts;

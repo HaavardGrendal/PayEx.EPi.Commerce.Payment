@@ -5,7 +5,7 @@ using EPiServer.DataAbstraction;
 using EPiServer.Framework;
 using EPiServer.Framework.Initialization;
 using EPiServer.ServiceLocation;
-using log4net;
+using EPiServer.Logging.Compatibility;
 using Mediachase.Commerce;
 using Mediachase.Commerce.Core;
 using Mediachase.Commerce.Orders.Dto;

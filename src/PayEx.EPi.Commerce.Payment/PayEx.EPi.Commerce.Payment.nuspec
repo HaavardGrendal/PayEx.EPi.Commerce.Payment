@@ -10,6 +10,9 @@
     <description>PayEx payment provider for EPiServer Commerce</description>
     <copyright>Copyright 2015 - PayEx</copyright>
     <tags>EPiServer Commerce PayEx</tags>    
+    <dependencies>
+      <dependency id="PayEx.EPi.Commerce.Payment" version="[9.0, 10)" />
+    </dependencies>
   </metadata>  
   <files>
     <file src="\bin\PayEx.EPi.Commerce.Payment.dll" target="lib\net45"/>
